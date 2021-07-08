@@ -1,0 +1,67 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "SearchScript",
+      "type": "procedure",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "search_script",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "text",
+            "type": "string"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "minecraftquicksearch",
+    "modName": "Minecraft Quick Search",
+    "version": "1.0.0",
+    "description": "Adds a quick way to search things from in game for some selected sites. YouTube, Google, Minecraft Wiki, Minecraft Forums, and Planet Minecraft.",
+    "author": "NorthWestTrees Gaming",
+    "websiteURL": "https://github.com/treasure-and-chests/Minecraft-Quick-Search",
+    "license": "NWTG Public License 1.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "MCreator, Mojang, NWTG",
+    "modElementsPackage": "net.treasureandchests.minecraftquicksearch",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

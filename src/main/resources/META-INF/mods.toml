@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="NWTG Public License 1.0"
+
+[[mods]]
+modId="minecraftquicksearch"
+version="1.0.0"
+displayName="Minecraft Quick Search"
+credits="MCreator, Mojang, NWTG"
+displayURL="https://github.com/treasure-and-chests/Minecraft-Quick-Search"
+authors="NorthWestTrees Gaming"
+description='''
+Adds a quick way to search things from in game for some selected sites. YouTube, Google, Minecraft Wiki, Minecraft Forums, and Planet Minecraft.
+'''
+
+[[dependencies.minecraftquicksearch]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
