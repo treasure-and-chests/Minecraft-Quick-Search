@@ -13,3 +13,7 @@ A message will appear for you that will list some sites you can search from.
 1. Planet Minecraft
 
 # WIKI
+https://github.com/treasure-and-chests/Minecraft-Quick-Search/wiki
+
+# REPORT A ISSUE
+https://github.com/treasure-and-chests/Minecraft-Quick-Search/issues
